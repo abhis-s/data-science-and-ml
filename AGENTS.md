@@ -4,7 +4,10 @@ This file tells coding agents (Claude Code, Codex, Cursor, …) what this projec
 
 ## Team
 
-[Names and who is responsible for what, e.g. data preparation, baseline model, neural network, presentation.]
+- **Abhishek Sagar** (driver) — role: tbd
+- **Christian Hase** — role: tbd
+- **Mudit Joshi** — role: tbd
+- **Surya Nannuri** — role: tbd
 
 ## Data
 
@@ -27,3 +30,11 @@ This file tells coding agents (Claude Code, Codex, Cursor, …) what this projec
 - Questions about the decision, the audiences, what counts as success, what is known in advance, how to split the data and which checks to run are the team’s to decide. If the canvas or the decision log does not settle them yet, ask; do not decide them yourself.
 - Only work inside this repository. Ask before deleting files, installing software outside the project environment or pushing to GitHub.
 - Never write passwords, API keys or personal data into files.
+
+## Agentic data science
+
+- Canvas: `CANVAS.md` (read before any analysis work; update when something is decided)
+- Glossary: `GLOSSARY.md`; decisions: `DECISIONS.md`
+- Checks: `checks/`, run with `uv run pytest checks`; experiment log: `experiments/LOG.md`
+- Tracker: local files under `issues/`
+- Data: remote CSVs from `https://raw.githubusercontent.com/opencampus-sh/intro-to-data-science-and-ml/main/data/bakery/`. Raw data is read-only.

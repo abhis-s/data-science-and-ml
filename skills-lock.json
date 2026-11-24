@@ -1,0 +1,138 @@
+{
+  "version": 2,
+  "skills": {
+    "ask-ds": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/ask-ds/SKILL.md",
+      "computedHash": "9081735f8ddfa11fc5f461e797a92e88c5540a28fd5def27a160fdfc2f6c3d04"
+    },
+    "audience": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/audience/SKILL.md",
+      "computedHash": "135355c164bddbd30d7fd10f9d98a14cea50faa723946ca363445c2cfe902c89"
+    },
+    "data-checks": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/data-checks/SKILL.md",
+      "computedHash": "7224f1d34b8ab8dd421f9107f146bda6accbab8eec59631cb67dd0309b9450a3"
+    },
+    "debug-training": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/deep-learning/debug-training/SKILL.md",
+      "computedHash": "05f307195f29fff622261e4ad77212496a805838e74fd239d2ca11801c44b66a"
+    },
+    "diagnose-surprise": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/diagnose-surprise/SKILL.md",
+      "computedHash": "9287b3280678b5afeec9e7ece144efe0aa8fb89562a9cd5313a3a37047ec7b7c"
+    },
+    "ds-retro": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/ds-retro/SKILL.md",
+      "computedHash": "2821ad4bdd7feb73eab6d7c3724b0b675bb71b4d681c9d64869c8c1b83225fd8"
+    },
+    "explore-data": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/explore-data/SKILL.md",
+      "computedHash": "d779d133c89806107d227eefabd38927238fabe241299e8ae6e7f3ca1be9966c"
+    },
+    "grill-question": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/grill-question/SKILL.md",
+      "computedHash": "8907a649df77cfd50124d29fe71eacad63af0253584b199172d75e3eff4d7cb0"
+    },
+    "implement-experiment": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/implement-experiment/SKILL.md",
+      "computedHash": "1887e013a2b1f4f661747c57317ba72dff22224c7337f718625c6c31d7f3820e"
+    },
+    "leakage": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/leakage/SKILL.md",
+      "computedHash": "aa46c65690ce65b5687c87dff596794969dbc27949882cb1411dd798656ba58e"
+    },
+    "model-card": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/deep-learning/model-card/SKILL.md",
+      "computedHash": "8568b09e186361f97fd3d8572bee637075d0c88f6ea0115df54dde1526200b83"
+    },
+    "review-results": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/review-results/SKILL.md",
+      "computedHash": "7273ba53d58ab985955a6b4edf4170cb85a107b87e167d9e6d95725dbc478c6b"
+    },
+    "setup-ds-project": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/setup-ds-project/SKILL.md",
+      "computedHash": "5d9d429a78e2ee682935b66aba5d3c4365eff3617421788808f662b22460bfeb"
+    },
+    "show-canvas": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/show-canvas/SKILL.md",
+      "computedHash": "56b0aa35e87fddbd4160b737cc3285ac5c07ff7664d50eb9bc43f206f94a24fc"
+    },
+    "tidy-notebooks": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/tidy-notebooks/SKILL.md",
+      "computedHash": "f8f0269f0c0885153a33d5487f45f895de83cd620c6d7ab9b15ef511bc77a974"
+    },
+    "to-analysis-plan": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/to-analysis-plan/SKILL.md",
+      "computedHash": "f9ed2456a11c0e7a842d4e23252829cf30d8f0e7f0d4b4473ba5f4351da953b3"
+    },
+    "to-experiments": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/to-experiments/SKILL.md",
+      "computedHash": "bab19417cc353fdd49ddf71fd4ad178f49cba7701b2fe1ba1670e0291da5248c"
+    },
+    "to-memo": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/core/to-memo/SKILL.md",
+      "computedHash": "d5e37b0e2c163c9205bc2efe6e353e37ee65d0397d9c0805b79a32978f409d74"
+    },
+    "training-protocol": {
+      "source": "steffen74/agentic-data-science",
+      "commit": "e78a8db79417bf83035c503265094f84368b05bc",
+      "sourceType": "github",
+      "skillPath": "skills/deep-learning/training-protocol/SKILL.md",
+      "computedHash": "c0fdbcf649667372ecbec97c486ee9bf1e400a59a8b245fcd7c2144a29478ba7"
+    }
+  }
+}
